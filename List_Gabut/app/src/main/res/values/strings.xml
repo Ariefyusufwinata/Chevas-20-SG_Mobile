@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">List Gabut</string>
+    <string name="game">Game</string>
+    <string name="developer">Developer</string>
+    <string name="realese_date">Realese Date</string>
+    <string name="mode">Mode</string>
+</resources>

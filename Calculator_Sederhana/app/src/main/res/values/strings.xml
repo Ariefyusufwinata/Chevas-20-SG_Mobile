@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AMBYAR</string>
+    <string name="nilai_kedua">Nilai Kedua</string>
+    <string name="hasil">HASIL</string>
+    <string name="button">Button</string>
+    <string name="bagi">BAGI</string>
+    <string name="kali">KALI</string>
+    <string name="tambah">TAMBAH</string>
+    <string name="kurang">KURANG</string>
+    <string name="nilai_pertama">Nilai Pertama</string>
+</resources>
